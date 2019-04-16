@@ -16,8 +16,8 @@
         "23.82.19.191",
         "104.144.207.194",
         "115.194.9.129",
-	"172.81.132.108",
-	"23.106.122.125"
+        "172.81.132.108",
+        "23.106.122.125"
     ],
     "blacklist-hosts" : [
         "*.blockchainflat.net",
@@ -26,7 +26,8 @@
         "*.freenodeonline.org",
         "*.myblocknode.com",
         "*.myelectrum.net",
-	"*.nodeforall.com",
-	"*.donatebox.work"
+        "*.nodeforall.com",
+        "*.node4all.org",
+        "*.donatebox.work"
     ]
 }
