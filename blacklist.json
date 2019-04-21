@@ -28,6 +28,11 @@
         "*.myelectrum.net",
         "*.nodeforall.com",
         "*.node4all.org",
-        "*.donatebox.work"
+        "*.donatebox.work",
+        "*.smartblock.one",
+        "*.myblockchainonline.top",
+        "*.nodecafe.org",
+        "*.codenodebox.com",
+        "*.electrumupdate.org"
     ]
 }
