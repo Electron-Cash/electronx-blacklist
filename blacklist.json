@@ -17,7 +17,17 @@
         "104.144.207.194",
         "115.194.9.129",
         "172.81.132.108",
-        "23.106.122.125"
+        "23.106.122.125",
+        "104.248.221.161",
+        "134.209.202.187",
+        "139.59.5.189",
+        "142.93.96.49",
+        "157.230.212.35",
+        "165.22.251.109",
+        "167.179.118.200",
+        "45.76.124.65",
+        "45.76.242.240",
+        "46.101.164.74"
     ],
     "blacklist-hosts" : [
         "*.blockchainflat.net",
@@ -33,6 +43,11 @@
         "*.myblockchainonline.top",
         "*.nodecafe.org",
         "*.codenodebox.com",
-        "*.electrumupdate.org"
+        "*.electrumupdate.org",
+        "*.byelectrum.top",
+        "*.deepnode.top",
+        "*.theelectrumpayment.top",
+        "*.wellconnected.top",
+        "*.yeahbuddy.top"
     ]
 }
